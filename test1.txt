@@ -1,1 +1,1 @@
-master,ver1_1
+master,ver1_1,ver1_2
